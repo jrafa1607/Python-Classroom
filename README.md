@@ -3,12 +3,13 @@
 Repositório com exemplos de códigos, scripts e exercícios práticos desenvolvidos para as aulas de Python.
 <br>Os códigos estão organizados por módulos para facilitar o acompanhamento do conteúdo:
 
-* `01-introducao/` - Conceitos básicos, sintaxe e variáveis.
-* `02-estruturas-condicionais/` - Tomadas de decisão (`if`, `elif`, `else`).
-* `03-lacos-de-repeticao/` - Estruturas de repetição (`for`, `while`).
-* `04-funcoes/` - Modularização, escopo e parâmetros.
-* `05-estruturas-de-dados/` - Listas, tuplas, dicionários e conjuntos.
-* `06-projetos-praticos/` - Mini-projetos integradores.
+* `01 - Introdução/` - Conceitos básicos, sintaxe e variáveis.
+* `02 - Estruturas Condicionais/` - Tomadas de decisão (`if`, `elif`, `else`).
+* `03 - Estruturas de Repetição/` - Estruturas de repetição (`for`, `while`).
+* `04 - Vetores e Matrizes/` - Tipos Específicos de Variáveis
+* `05 - Funções e Tratamento de Exceções/` - Modularização, Escopo e Validações.
+* `06 - Manipulação de Arquivos e Orientação à Objetos/` - Leitura de Arquivos, Classes e Objetos.
+* `Projetos Práticos/` - Mini-projetos de Programação.
 
 ---
 
