@@ -24,7 +24,7 @@ Para rodar os códigos na sua máquina, você vai precisar de:
 
 1. **Clone o repositório** (ou baixe como arquivo `.zip`):
 ```bash
-git clone [https://github.com/jrafa1607/Python-Classroom](https://github.com/jrafa1607/Python-Classroom)
+git clone https://github.com/jrafa1607/Python-Classroom
 ```
 
 2. **Entre na pasta do assunto desejado**:
