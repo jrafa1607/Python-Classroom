@@ -1,7 +1,7 @@
 ### 🚀🐍 Exemplos de Códigos - Python
 
-> Repositório com exemplos de códigos, scripts e exercícios práticos desenvolvidos para as aulas de Python.
-> Os códigos estão organizados por módulos para facilitar o acompanhamento do conteúdo:
+Repositório com exemplos de códigos, scripts e exercícios práticos desenvolvidos para as aulas de Python.
+<br>Os códigos estão organizados por módulos para facilitar o acompanhamento do conteúdo:
 
 * `01-introducao/` - Conceitos básicos, sintaxe e variáveis.
 * `02-estruturas-condicionais/` - Tomadas de decisão (`if`, `elif`, `else`).
