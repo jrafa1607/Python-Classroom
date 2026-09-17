@@ -24,12 +24,12 @@ Para rodar os códigos na sua máquina, você vai precisar de:
 
 1. **Clone o repositório** (ou baixe como arquivo `.zip`):
 ```bash
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+git clone [https://github.com/jrafa1607/Python-Classroom](https://github.com/jrafa1607/Python-Classroom)
 ```
 
 2. **Entre na pasta do assunto desejado**:
 ```bash
-cd NOME-DO-REPOSITORIO/01-introducao
+cd Python-Classroom/01-introducao
 ```
 
 3. **Execute o script Python**:
